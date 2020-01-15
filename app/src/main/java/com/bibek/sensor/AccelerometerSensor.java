@@ -37,15 +37,6 @@ public class AccelerometerSensor extends AppCompatActivity {
 
             @Override
             public void onAccuracyChanged(Sensor sensor, int accuracy) {
-
-
-
-
-
-
-
-
-
             }
         };
       if (sensor != null){

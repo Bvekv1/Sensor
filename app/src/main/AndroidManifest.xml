@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
        <activity android:name=".ProximityActivity"></activity>
         <activity android:name=".AccelerometerSensor"></activity>
-        <!--<activity android:name=".GyroscopeActivity"></activity> -->
+        <!--<activity android:name=".GyroscopeActivity"></activity>-->
         <activity android:name=".SensorActivity" />
         <activity android:name=".GyroscopeActivity">
             <intent-filter>
